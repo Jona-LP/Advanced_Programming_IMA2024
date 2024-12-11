@@ -11,3 +11,5 @@ En este repositorio se pueden encontrar los proyectos implementados en cada mód
 🎬 See [Homework 7](https://www.youtube.com/watch?v=BG-mRwonQxk).
 
 Adding an emoji  ⚠️ 
+
+Adding another emoji ✅
