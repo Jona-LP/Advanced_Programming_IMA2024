@@ -6,3 +6,7 @@ Repositorio creado como parte de las actividades asociadas al curso IMAP2018-1.
 
 ## Resumen 🔍
 En este repositorio se pueden encontrar los proyectos implementados en cada módulo del curso IMAP2018-1 _Programación Avanzada_ impartido por la profesora Paulina Sepúlveda PhD, en el Instituto de Matemáticas de la PUCV.
+
+
+🎬 See [Homework 7](https://www.youtube.com/watch?v=BG-mRwonQxk).
+
